@@ -1,1 +1,1 @@
-# Ko-Holding-Deep-Learning-Bootcamp
+# Koc Holding Deep Learning Bootcamp
